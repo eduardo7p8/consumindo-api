@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="login_button">Entrar</string>
+    <string name="forgot_password">Esqueceu a senha?Click aqui</string>
+    <string name="register_link">Cadastre-se</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="email_required">O email é obrigatório</string>
+    <string name="pass_required">O Senha é obrigatório</string>
+    <string name="sucesso_login">Seja bem vindo meu consagrado</string>
+    <string name="error_login">Pega subindo daki, deu erro</string>
+    <string name="pass_min_seis">A senha deve Conter no minimo 6 carateres</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="back_register_button">Voltar</string>
+    <string name="reptir_senha_hint">repetir a senha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
